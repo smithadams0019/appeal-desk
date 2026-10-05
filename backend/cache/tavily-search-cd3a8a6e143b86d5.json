@@ -1,0 +1,57 @@
+{
+ "query": "FEMA IID-HA denial home safe sanitary functional repair assistance not approved appeal documents",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://www.fema.gov/assistance/individual/after-applying/understanding-letter",
+   "title": "Understanding Your FEMA Letter | FEMA.gov",
+   "content": "### Approved\n\nIf you are approved for FEMA assistance, your letter will explain how much money you will get and what the money can be used for.\n\nPlease read your entire letter as it will explain how to ask for more help if you need it.\n\n### Next Steps if You\u2019re Not Approved\n\nIf you are not approved for FEMA assistance, your letter will explain what to do if you disagree with FEMA\u2019s decision. You can send more information to show why you need help, like repair estimates or an insurance settlement, and we will take another look at your case.\n\nLook for the section labeled \u201cYour Next Steps\u201d to find out which documents FEMA needs from you.\n\n## Appeal Form [...] ## Appeal Form\n\nAt the end of your letter, look for an appeal form that can be used to send us additional information about your situation. You may also download the appeal form.\n\nThis form can help make sure you have the information FEMA needs and gives you a space to explain any important context why you need help. If it's easier to just write us a letter, that's fine too. Sending an appeal form or letter with your additional information is optional.\n\nFor more information on how to file an appeal, visit How Do I Appeal FEMA's Decision?\n\nGraphic\n\nMan at desk filling out a paper form\n\n## Additional Help\n\nIf you need more help understanding your FEMA letter, you can: [...] alert - info\n\nNote: You still may be eligible for FEMA assistance even if your insurance doesn't cover all of your losses or expenses. Just keep in mind that FEMA cannot give you money for what your insurance already paid for.\n\n## If FEMA Needs More Information from You\n\nFEMA wants to help as much as we can. Sometimes we need some additional information like an insurance settlement, copy of a receipt for disaster costs, or documents that confirm your identity and where you live.\n\nYour FEMA letter will explain exactly which documents you need to send and how to submit them. For example, you may need to send documents that show the following:\n\n### Insurance Settlement or Denial\n\nThis is to show what your insurance does or doesn\u2019t cover.\n\n### Social Security Number (SSN)",
+   "score": 0.4622066,
+   "raw_content": null,
+   "id": "cde62f-00"
+  },
+  {
+   "url": "https://www.fema.gov/disaster/4899",
+   "title": "4899 | FEMA.gov",
+   "content": "Learn more about what to expect\n\n### Review FEMA\u2019s Decision\n\nOnce FEMA has reviewed your application, the results of the inspection and/or documentation submitted, you will get a letter explaining:\n\n whether you are approved for assistance\n how much assistance you will receive\n how the assistance must be used\n how to appeal FEMA\u2019s decision if you do not agree with it\n\nThe letter will be sent to you by email or mail based on what you selected when you completed your application.\n\n### Frequently Asked Questions and Rumors [...] alert - warning\n\nThe last day for individuals and families to apply for assistance after this disaster has passed.\n\nTo check the status of your application, visit DisasterAssistance.gov.\n\n### I Applied for Assistance. What's Next?\n\nAfter applying for assistance, your request is reviewed to determine if an inspection is needed to verify disaster-related damage to your home and personal property. FEMA staff and inspectors may contact you to discuss your disaster-caused damage.\n\nFEMA may also request more information to support your eligibility for assistance or information related to your specific disaster-related needs identified in your application. If this is needed, you will receive a letter from FEMA outlining the information needed.\n\nLearn more about what to expect [...] If you own a business involved with debris removal and want to work on clean-up efforts in affected areas, please contact the local government in affected areas to offer your services.\n\n## Funding Obligations\n\n| Individual Assistance | Amount |\n --- |\n| Total Housing Assistance (HA) - Dollars Approved | $125,163,691.36 |\n| Total Other Needs Assistance (ONA) - Dollars Approved | $81,403,508.54 |\n| Total Individuals & Households Program Dollars Approved | $206,567,199.90 |\n| Individual Assistance Applications Approved | 49046 |\n\n| Public Assistance | Amount |\n --- |\n| Emergency Work (Categories A-B) - Dollars Obligated | $175,251,395.85 |\n| Permanent Work (Categories C-G) - Dollars Obligated | $10,775,355.84 |\n| Total Public Assistance Grants Dollars Obligated | $197,137,630.29 |",
+   "score": 0.25422233,
+   "raw_content": null,
+   "id": "e38690-01"
+  },
+  {
+   "url": "https://www.fema.gov/disaster/4683",
+   "title": "4683",
+   "content": "If you receive a letter stating that you are ineligible for assistance or that your application is incomplete, you can still complete the application or appeal",
+   "score": 0.22476971,
+   "raw_content": null,
+   "id": "887025-02"
+  },
+  {
+   "url": "https://www.fema.gov/disaster/4663",
+   "title": "4663",
+   "content": "FEMA is required to verify you lived at the address in your application as your primary residence before providing most types of IHP Assistance. FEMA is also",
+   "score": 0.17655832,
+   "raw_content": null,
+   "id": "44d490-03"
+  },
+  {
+   "url": "https://www.fema.gov/disaster/4340",
+   "title": "Virgin Islands Hurricane Maria (DR-4340-VI)",
+   "content": "How Do I Appeal the Decision? If you receive a letter stating that you are not approved for assistance or that your application is incomplete, you can still",
+   "score": 0.15006647,
+   "raw_content": null,
+   "id": "ca2ae0-04"
+  }
+ ],
+ "response_time": 3.55,
+ "request_id": "8a8a37cd-fda1-441c-800f-8f2f9fff3ea9",
+ "_meta": {
+  "cached": false,
+  "mode": "keyless",
+  "endpoint": "search",
+  "elapsed_ms": 21959,
+  "retrieved": "2026-10-04T19:59:57Z"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "parsed": {
+  "disasterNumber": 4827,
+  "letterDate": "2025-01-22",
+  "program": "HA",
+  "applicationNumber": "[your 9-digit FEMA application number]",
+  "determinations": [
+   {
+    "line": "Additional assistance may be available \u2014 documents requested: repair receipts; insurance settlement OR denial",
+    "code": "DOC",
+    "codeMeaning": "This is an award with a request for documents, not a denial. FEMA is asking for one of the listed documents before it can consider more help."
+   }
+  ]
+ },
+ "ruleSet": {
+  "declarationDate": "2024-09-28",
+  "appliesEquityRule": true,
+  "window": "Appeal postmarked within 60 days of the decision letter.",
+  "explanation": "For disasters declared on or after 22 March 2024, an appeal must be postmarked within 60 days of the decision letter, and a signed written explanation is no longer required \u2014 supporting documents alone can be sent.",
+  "citation": "89 FR 3990 (Individual Assistance Program Equity, published 22 Jan 2024)",
+  "citationUrl": "https://www.govinfo.gov/content/pkg/FR-2024-01-22/pdf/2024-00677.pdf"
+ },
+ "deadline": {
+  "letterDate": "2025-01-22",
+  "dueDate": "2025-03-23",
+  "window": "60 days",
+  "note": "Count 60 days from the date printed on the letter; the appeal must be postmarked by then."
+ },
+ "liveRules": {
+  "query": "FEMA DOC denial request for documents award not a denial",
+  "timeRange": "month",
+  "quotedPassage": "",
+  "citations": [
+   {
+    "title": "Assistance to Firefighters Grants | FEMA.gov",
+    "url": "https://www.fema.gov/grants/preparedness/firefighters/assistance-grants",
+    "score": 0.11,
+    "snippet": "### Get Tools and Resources\n\nAwards AFG Guidance and Documents Rules and Tools Join an Upcoming Workshop AFG Videos\n\nExternal Link Arrow\n\n### Connect With Us\n\nContact the AFG Program Help Desk toll-free at 866-274-0960 or send an email.\n\nFire Program Specialists in FEMA\u2019s regions"
+   },
+   {
+    "title": "Frequently Asked Questions (FAQs) | disasterassistance.gov",
+    "url": "http://www.disasterassistance.gov/help/faqs",
+    "score": 0.1,
+    "snippet": "Please read the application questions and your entries carefully as you proceed. Once you click \u201cSubmit,\u201d you can only make limited changes online. To change some information after you submit it, you must call the FEMA Helpline.\n\nIt\u2019s very important to know that your application "
+   },
+   {
+    "title": "Staffing For Adequate Fire and Emergency Response (SAFER) | FEMA.gov",
+    "url": "https://www.fema.gov/grants/preparedness/firefighters/safer",
+    "score": 0.1,
+    "snippet": "Review the List of Award Recipients\n\nPlease see the complete list of SAFER awards at the bottom of this page.\n\nPost-award resources are coming soon.\n\nApplicants not selected will receive a letter with additional information to their authorized organization representative(s).\n\n## "
+   },
+   {
+    "title": "Federal Register :: Suggested Search - Disaster Declarations & Assistance",
+    "url": "https://www.federalregister.gov/disaster-declarations-assistance",
+    "score": 0.07,
+    "snippet": "Customize this search\n\nSubscribe\n\nThe Department of Homeland Security and its Federal Emergency Management Agency (FEMA) administer disaster assistance and emergency management in the U.S. Under the Stafford Act, state governors initiate requests for disaster assistance. If the P"
+   }
+  ],
+  "tavily": {
+   "mode": "keyless",
+   "cached": true,
+   "elapsedMs": 3884
+  }
+ },
+ "decision": {
+  "decision": "document_cure",
+  "oneLine": "FEMA is requesting repair receipts and an insurance settlement or denial letter to evaluate additional assistance; this is a document request, not a denial.",
+  "rationale": "The determination explicitly states 'Additional assistance may be available \u2014 documents requested' and the DOC code clarifies this is an award pending documents, not a denial. The cure is to supply the requested repair receipts and insurance documentation."
+ },
+ "draft": "To: FEMA Individuals and Households Program  \nRe: Document Cure Request  \nDisaster number: 4827  \nApplication number: [your 9-digit FEMA application number]  \n\nThis letter responds to FEMA\u2019s request for documentation to determine eligibility for additional assistance. I am providing the required items\u2014repair receipts and either my insurance settlement statement or a denial letter\u2014to support evaluation of further aid.\n\nEnclosed are: [repair receipts]; [insurance settlement OR denial].\n\nThe submission is made within 60 days of the date of this letter.\n\n[Signature]  \n[Printed Name]  \n[Date]",
+ "elapsedSec": 4.2,
+ "fromCache": false
+}

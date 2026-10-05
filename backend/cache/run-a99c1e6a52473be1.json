@@ -1,0 +1,55 @@
+{
+ "parsed": {
+  "disasterNumber": 4827,
+  "letterDate": "2025-02-15",
+  "program": null,
+  "applicationNumber": "12345-6789",
+  "determinations": [
+   {
+    "line": "You are not eligible for Housing Assistance because FEMA determined your home is safe to occupy (Home Is Safe to Occupy - IID-HA).",
+    "code": "IID-HA",
+    "codeMeaning": "Home Is Safe to Occupy"
+   }
+  ]
+ },
+ "ruleSet": {
+  "declarationDate": "2024-09-28",
+  "appliesEquityRule": true,
+  "window": "Appeal postmarked within 60 days of the decision letter.",
+  "explanation": "For disasters declared on or after 22 March 2024, an appeal must be postmarked within 60 days of the decision letter, and a signed written explanation is no longer required \u2014 supporting documents alone can be sent.",
+  "citation": "89 FR 3990 (Individual Assistance Program Equity, published 22 Jan 2024)",
+  "citationUrl": "https://www.govinfo.gov/content/pkg/FR-2024-01-22/pdf/2024-00677.pdf"
+ },
+ "deadline": {
+  "letterDate": "2025-02-15",
+  "dueDate": "2025-04-16",
+  "window": "60 days",
+  "note": "Count 60 days from the date printed on the letter; the appeal must be postmarked by then."
+ },
+ "liveRules": {
+  "query": "FEMA home safe to occupy appeal documents IID-HA",
+  "timeRange": "month",
+  "quotedPassage": "",
+  "citations": [
+   {
+    "title": "FEMA Mobile Products | FEMA.gov",
+    "url": "https://www.fema.gov/about/news-multimedia/mobile-products",
+    "score": 0.05,
+    "snippet": "alert - warning\n\nThe 43362 Text/SMS short code currently only works within the continental U.S. and common mobile phone carriers within Puerto Rico and Guam.  \n  \nFor other U.S. territories please download the FEMA App on iOS and Android (available in English and Spanish) to look"
+   }
+  ],
+  "tavily": {
+   "mode": "keyless",
+   "cached": false,
+   "elapsedMs": 2686
+  }
+ },
+ "decision": {
+  "decision": "appeal_merits",
+  "oneLine": "The denial is based on FEMA's determination that the home is safe to occupy, which is a factual conclusion that can be challenged with contrary evidence such as inspection reports or repair estimates.",
+  "rationale": "The denial code IID-HA indicates FEMA found the home safe to occupy after inspection; the applicant can appeal by submitting evidence (e.g., contractor estimates, photos, independent inspection) showing the home is unsafe, which is a merits appeal."
+ },
+ "draft": "To: FEMA Individuals and Households Program  \nRe: Appeal of Housing Assistance Denial  \nDisaster number: 4827  \nApplication number: 12345-6789  \n\nI am appealing FEMA\u2019s determination that my home is safe to occupy (IID\u2011HA) because I believe this conclusion is incorrect. Enclosed are documents that show the home remains unsafe, including an inspection report and repair estimates indicating necessary structural repairs. These materials provide contrary evidence to FEMA\u2019s factual finding and support my eligibility for Housing Assistance.\n\nThis letter is being sent within 60 days of its date.  \n\n[Signature]  \n[Printed Name]  \n[Date]",
+ "elapsedSec": 9.4,
+ "fromCache": false
+}

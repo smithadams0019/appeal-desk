@@ -1,0 +1,73 @@
+{
+ "parsed": {
+  "disasterNumber": 4827,
+  "letterDate": "2025-01-10",
+  "program": "HA",
+  "applicationNumber": "123456789",
+  "determinations": [
+   {
+    "line": "Ineligible - Home is Safe to Occupy (IID - HA)",
+    "code": null,
+    "codeMeaning": null
+   }
+  ]
+ },
+ "ruleSet": {
+  "declarationDate": "2024-09-28",
+  "appliesEquityRule": true,
+  "window": "Appeal postmarked within 60 days of the decision letter.",
+  "explanation": "For disasters declared on or after 22 March 2024, an appeal must be postmarked within 60 days of the decision letter, and a signed written explanation is no longer required \u2014 supporting documents alone can be sent.",
+  "citation": "89 FR 3990 (Individual Assistance Program Equity, published 22 Jan 2024)",
+  "citationUrl": "https://www.govinfo.gov/content/pkg/FR-2024-01-22/pdf/2024-00677.pdf"
+ },
+ "deadline": {
+  "letterDate": "2025-01-10",
+  "dueDate": "2025-03-11",
+  "window": "60 days",
+  "note": "Count 60 days from the date printed on the letter; the appeal must be postmarked by then."
+ },
+ "liveRules": {
+  "query": "FEMA denial reason None appeal documents",
+  "timeRange": "month",
+  "quotedPassage": "You have 60 days from the date of your decision letter to appeal.",
+  "citations": [
+   {
+    "title": "Stay in Touch with FEMA | FEMA.gov",
+    "url": "https://www.fema.gov/press-release/20260930/stay-touch-fema",
+    "score": 0.33,
+    "snippet": "If you were initially approved for rental assistance, an application for continued temporary housing assistance will be mailed to you 15 days after the grant is approved. If you do not receive one, contact FEMA by calling 800-621-3362.\n\nApplicants Appealing an Initial FEMA Decisi"
+   },
+   {
+    "title": "4828 | FEMA.gov",
+    "url": "https://www.fema.gov/disaster/4828",
+    "score": 0.3,
+    "snippet": "If you disagree with FEMA\u2019s decision, you may appeal. It must be submitted within 60 days of the date of the decision letter.\n\nIf you have questions regarding the letter you received or how to file an appeal, call the FEMA Helpline at 800-621-3362. If you use video relay service "
+   },
+   {
+    "title": "4866",
+    "url": "https://www.fema.gov/disaster/4866",
+    "score": 0.29,
+    "snippet": "how to appeal FEMA's decision if you do not agree with it. The letter will be sent to you by email or mail based on what you selected when you completed your"
+   },
+   {
+    "title": "What to Expect After You Apply for FEMA Assistance | FEMA.gov",
+    "url": "https://www.fema.gov/press-release/20260923/what-expect-after-you-apply-fema-assistance",
+    "score": 0.24,
+    "snippet": "## Decision Letters and What \u201cIneligible\u201d May Mean\n\nAfter your information is reviewed, FEMA will send you a letter or online notification explaining:\n\nA letter saying you are \u201cineligible\u201d does not always mean the case is closed. Common reasons include:\n\nIn many cases, you can re"
+   }
+  ],
+  "tavily": {
+   "mode": "keyless",
+   "cached": false,
+   "elapsedMs": 3882
+  }
+ },
+ "decision": {
+  "decision": "appeal_merits",
+  "oneLine": "FEMA determined the home is safe to occupy, a merits-based eligibility finding that requires an appeal with evidence of greater damage or uninhabitability.",
+  "rationale": "The denial reason 'Ineligible - Home is Safe to Occupy (IID - HA)' reflects FEMA's substantive assessment that the damage does not meet the threshold for assistance, not a missing document. No missing paperwork (occupancy, ownership, identity, insurance) is cited. The appropriate path is to appeal on the merits within 60 days, presenting evidence that the home is unsafe or has qualifying damage."
+ },
+ "draft": "To: FEMA Individuals and Households Program  \nRe: Appeal of determination \u2013 Home declared safe to occupy  \nDisaster number: 4827  \nApplication number: 123456789  \n\nI am appealing FEMA\u2019s determination that my home is safe to occupy because I believe the residence remains unsafe due to significant structural damage and ongoing hazards that prevent habitable living conditions. The initial assessment did not fully capture the extent of the damage, and I request a merits\u2011based review of my eligibility for assistance.\n\nEnclosed are photographs of the damaged areas, a contractor\u2019s repair estimate, and a statement from a licensed inspector describing the unsafe conditions. This letter is being sent within 60 days of the date of my decision letter, as required by FEMA guidance.\n\n[Signature]  \n[Printed Name]  \n[Date]",
+ "elapsedSec": 11.2,
+ "fromCache": false
+}

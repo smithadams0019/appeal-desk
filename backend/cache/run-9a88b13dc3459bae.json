@@ -1,0 +1,73 @@
+{
+ "parsed": {
+  "disasterNumber": 4827,
+  "letterDate": "2025-01-10",
+  "program": "HA",
+  "applicationNumber": "[your 9-digit FEMA application number]",
+  "determinations": [
+   {
+    "line": "Housing Assistance \u2014 Ineligible: Home Is Safe to Occupy",
+    "code": "IID-HA",
+    "codeMeaning": "FEMA's inspection found the home safe, sanitary and functional, so repair assistance was not approved."
+   }
+  ]
+ },
+ "ruleSet": {
+  "declarationDate": "2024-09-28",
+  "appliesEquityRule": true,
+  "window": "Appeal postmarked within 60 days of the decision letter.",
+  "explanation": "For disasters declared on or after 22 March 2024, an appeal must be postmarked within 60 days of the decision letter, and a signed written explanation is no longer required \u2014 supporting documents alone can be sent.",
+  "citation": "89 FR 3990 (Individual Assistance Program Equity, published 22 Jan 2024)",
+  "citationUrl": "https://www.govinfo.gov/content/pkg/FR-2024-01-22/pdf/2024-00677.pdf"
+ },
+ "deadline": {
+  "letterDate": "2025-01-10",
+  "dueDate": "2025-03-11",
+  "window": "60 days",
+  "note": "Count 60 days from the date printed on the letter; the appeal must be postmarked by then."
+ },
+ "liveRules": {
+  "query": "FEMA IID-HA denial home safe sanitary functional repair assistance not approved appeal documents",
+  "timeRange": "year",
+  "quotedPassage": "Sending an appeal form or letter with your additional information is optional.",
+  "citations": [
+   {
+    "title": "Understanding Your FEMA Letter | FEMA.gov",
+    "url": "https://www.fema.gov/assistance/individual/after-applying/understanding-letter",
+    "score": 0.46,
+    "snippet": "### Approved\n\nIf you are approved for FEMA assistance, your letter will explain how much money you will get and what the money can be used for.\n\nPlease read your entire letter as it will explain how to ask for more help if you need it.\n\n### Next Steps if You\u2019re Not Approved\n\nIf y"
+   },
+   {
+    "title": "4899 | FEMA.gov",
+    "url": "https://www.fema.gov/disaster/4899",
+    "score": 0.25,
+    "snippet": "Learn more about what to expect\n\n### Review FEMA\u2019s Decision\n\nOnce FEMA has reviewed your application, the results of the inspection and/or documentation submitted, you will get a letter explaining:\n\n whether you are approved for assistance\n how much assistance you will receive\n h"
+   },
+   {
+    "title": "4683",
+    "url": "https://www.fema.gov/disaster/4683",
+    "score": 0.22,
+    "snippet": "If you receive a letter stating that you are ineligible for assistance or that your application is incomplete, you can still complete the application or appeal"
+   },
+   {
+    "title": "4663",
+    "url": "https://www.fema.gov/disaster/4663",
+    "score": 0.18,
+    "snippet": "FEMA is required to verify you lived at the address in your application as your primary residence before providing most types of IHP Assistance. FEMA is also"
+   }
+  ],
+  "tavily": {
+   "mode": "keyless",
+   "cached": false,
+   "elapsedMs": 21959
+  }
+ },
+ "decision": {
+  "decision": "appeal_merits",
+  "oneLine": "Applicant disputes FEMA's inspection finding that the home is safe, sanitary, and functional, and can submit additional evidence (photos, contractor estimates, etc.) to challenge that factual determination.",
+  "rationale": "The denial is based on FEMA's inspection conclusion about the home's condition \u2014 a merits determination. The guidance notes that submitting an appeal with additional information is optional, indicating the pathway is to contest the factual finding with contrary evidence, not to supply a missing document or accept a duplicate/fully-insured status."
+ },
+ "draft": "To: FEMA Individuals and Households Program  \nRe: Appeal of Housing Assistance Determination \u2013 Home Safety Finding  \nDisaster number: 4827  \nApplication number: [your 9\u2011digit FEMA application number]  \n\nI am appealing FEMA\u2019s determination that my home is safe, sanitary, and functional because I believe the inspection overlooked damage that affects habitability. Enclosed are photographs and a contractor\u2019s estimate that demonstrate the unsafe conditions requiring repair. This letter is submitted within 60 days of its date.  \n\n[Signature]  \n[Printed Name]  \n[Date]",
+ "elapsedSec": 51.7,
+ "fromCache": false
+}

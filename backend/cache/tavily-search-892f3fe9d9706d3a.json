@@ -1,0 +1,57 @@
+{
+ "query": "FEMA denial code 4 ownership verification documentation damaged home appeal",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://www.fema.gov/press-release/20260302/how-appeal-femas-decision",
+   "title": "How to Appeal FEMA\u2019s Decision | FEMA.gov",
+   "content": "Proof of insurance: You must provide a copy of your insurance settlement approval or denial letter to FEMA. If your insurance settlement is insufficient to meet your disaster-related needs, you may be eligible for federal assistance. FEMA cannot duplicate insurance benefits but may provide assistance for what your policy does not cover.\n Proof of occupancy:Documents that prove the damaged home or rental was your primary residence at the time of the disaster. These may include a government ID, driver\u2019s license or verification from a community or tribal leader. [...] Proof of ownership: Provide mortgage or insurance documents, tax receipts or a deed. If you don\u2019t have a deed handy, contact your local or tribal official about obtaining a copy. If none exists, please ask tribal leadership for a letter verifying ownership.\n Lost documents: Visit the following website for information and resources that can help you replace lost documents, such as driver\u2019s license, Medicare card or Social Security card. [...] Below are three ways to submit your appeal:\n\n You can set up an online account at DisasterAssistance.gov by clicking on \u201cApply Online\u201d and following the directions. Once you have set up an account you can check the status of your application, upload personal information and documents as well as the appeal letter.\n Mail to FEMA National Processing Service Center, P.O. Box 10055, Hyattsville MD 20782-7055. Appeals must be postmarked within 60 days of the date on your disaster assistance eligibility notification letter.\n Send as a Fax to 800-827-8112 or 540-504-2113 (Attention: FEMA)\n\nSupporting Documents for Your Application:",
+   "score": 0.5883458,
+   "raw_content": null,
+   "id": "c0fe3b-00"
+  },
+  {
+   "url": "https://www.fema.gov/assistance/individual/after-applying/verifying-home-ownership-occupancy",
+   "title": "Verifying Home Ownership or Occupancy | FEMA.gov",
+   "content": "A self-declarative statement for proof of ownership must include all of the below items:\n\n1. The address of the disaster-damaged residence.\n2. Length of time you lived in the disaster-damaged home, as your primary residence, prior to the Presidential disaster declaration.\n3. Your or your co-applicant\u2019s name and signature.\n4. The major elements of the following statement and additional explanation: [...] alert - info\n\nIf you own and live in a home that was passed down via heirship and do not have any acceptable forms of ownership, FEMA, as a last resort, will accept a written self-declarative statement as proof of ownership.\n\nA self-declarative statement for proof of ownership passed down via heirship must include all of the below items:\n\n1. The address of the disaster-damaged residence.\n2. Length of time you lived in the disaster-damaged home, as your primary residence, prior to the  Presidential disaster declaration.\n3. Your or your co-applicant\u2019s name and signature.\n4. A copy of the decedent\u2019s death certification.\n5. The major elements of the following statement and additional explanation: [...] A self-declarative statement for proof of occupancy must include all of the below items:\n\n1. The address of the disaster-damaged residence.\n2. Length of time you lived in the disaster-damaged home, as your primary residence, prior to the Presidential disaster declaration.\n3. Your or your co-applicant\u2019s name and signature.\n4. The major elements of the following statement and additional explanation:",
+   "score": 0.5602773,
+   "raw_content": null,
+   "id": "a87dda-01"
+  },
+  {
+   "url": "https://www.fema.gov/press-release/20260430/understanding-your-fema-determination-letter",
+   "title": "Understanding Your FEMA Determination Letter | FEMA.gov",
+   "content": "## Eligibility and Missing Information\n\nYou may need to submit additional information or supporting documentation for FEMA to continue to process an application for financial assistance. Examples of missing documentation may include:\n\n Proof of insurance coverage.\n Settlement of insurance claims or denial letter from insurance provider.\n Proof of identity.\n Proof of occupancy.\n Proof of ownership.\n Proof that the damaged property was the applicant\u2019s primary residence at the time of the disaster.\n\n## How Can I Appeal FEMA\u2019s Decision?\n\nThe letter from FEMA will provide information on the types of documents or information that FEMA needs. It will also include an optional appeal form that you can use. [...] Every applicant has the right to appeal a FEMA determination. If you feel the amount or type of assistance is incorrect, you may submit an appeal letter and any documents supporting your claim.\n\nYou have 60 days from the date on your FEMA determination letter to send your appeal.\n\nYou can submit your appeal and supporting documentation:\n\n Online at DisasterAssistance.gov, where you can create an account and upload documents.\n In-person at a Disaster Recovery Center.\n By mail: FEMA National Processing Service Center, P.O. Box 10055, Hyattsville MD 20782-7055.\n\nIf you have questions about your letter, or disagree with the initial decision, call the disaster assistance helpline at 800-621-3362 to find out what information FEMA needs.",
+   "score": 0.5122296,
+   "raw_content": null,
+   "id": "238cbe-02"
+  },
+  {
+   "url": "https://www.fema.gov/disaster/4626",
+   "title": "4626",
+   "content": "Verifying Home Ownership or Occupancy. FEMA is required to verify you lived at the address in your application as your primary residence before providing",
+   "score": 0.45682228,
+   "raw_content": null,
+   "id": "e03221-03"
+  },
+  {
+   "url": "https://www.fema.gov/assistance/individual/program/eligibility",
+   "title": "Eligibility Criteria for FEMA Assistance | FEMA.gov",
+   "content": "### Ownership/Occupancy Verification\n\nFor certain types of assistance, FEMA must confirm the disaster-damaged home is your primary residence. For Home Repair or Replacement Assistance, FEMA also needs to confirm you owned the residence at the time of the disaster.\n\nFEMA usually verifies this information through an automated public records search when you apply. If FEMA cannot confirm your occupancy or ownership status through the public records search, we might ask you to provide additional documents for verification.\n\nalert - info\n\nReview the types of documents you can provide to verify home occupancy and/or ownership.\n\n### Unmet Need After Insurance",
+   "score": 0.45449692,
+   "raw_content": null,
+   "id": "1d19db-04"
+  }
+ ],
+ "response_time": 2.49,
+ "request_id": "24ffc65b-e258-413e-921e-594ca9eeeacf",
+ "_meta": {
+  "cached": false,
+  "mode": "keyless",
+  "endpoint": "search",
+  "elapsed_ms": 3305,
+  "retrieved": "2026-10-04T19:54:31Z"
+ }
+}

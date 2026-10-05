@@ -1,0 +1,73 @@
+{
+ "parsed": {
+  "disasterNumber": 4827,
+  "letterDate": "2024-12-05",
+  "program": "HA",
+  "applicationNumber": "[applicant's FEMA application number]",
+  "determinations": [
+   {
+    "line": "Ineligible \u2014 needs to submit documentation (ownership not verified)",
+    "code": "4",
+    "codeMeaning": "Applicant needs to submit documentation \u2014 FEMA could not verify the applicant owns the damaged home."
+   }
+  ]
+ },
+ "ruleSet": {
+  "declarationDate": "2024-09-28",
+  "appliesEquityRule": true,
+  "window": "Appeal postmarked within 60 days of the decision letter.",
+  "explanation": "For disasters declared on or after 22 March 2024, an appeal must be postmarked within 60 days of the decision letter, and a signed written explanation is no longer required \u2014 supporting documents alone can be sent.",
+  "citation": "89 FR 3990 (Individual Assistance Program Equity, published 22 Jan 2024)",
+  "citationUrl": "https://www.govinfo.gov/content/pkg/FR-2024-01-22/pdf/2024-00677.pdf"
+ },
+ "deadline": {
+  "letterDate": "2024-12-05",
+  "dueDate": "2025-02-03",
+  "window": "60 days",
+  "note": "Count 60 days from the date printed on the letter; the appeal must be postmarked by then."
+ },
+ "liveRules": {
+  "query": "FEMA denial code 4 ownership documentation damaged home appeal",
+  "timeRange": "year",
+  "quotedPassage": "You have 60 days from the date of your letter to appeal.",
+  "citations": [
+   {
+    "title": "How to Document Home Ownership and Occupancy for FEMA | FEMA.gov",
+    "url": "https://www.fema.gov/fact-sheet/how-document-home-ownership-and-occupancy-fema-10",
+    "score": 0.59,
+    "snippet": "Homeowners may provide official documentation such as:\n  + The original deed or deed of trust to the property\n  + A mortgage statement or escrow analysis\n  + Property tax receipt or property tax bill\n  + Manufactured home certificate or title\n In addition, FEMA will now accept a "
+   },
+   {
+    "title": "Read Your FEMA Letter Carefully | FEMA.gov",
+    "url": "https://www.fema.gov/press-release/20260728/read-your-fema-letter-carefully",
+    "score": 0.58,
+    "snippet": "Often, you only need to send additional information or supporting documentation for FEMA to continue reviewing your application for financial assistance. Examples of missing documentation may include:  \n          \u25aa Proof of insurance coverage.  \n          \u25aa Settlement of insuranc"
+   },
+   {
+    "title": "How to Appeal FEMA\u2019s Decision | FEMA.gov",
+    "url": "https://www.fema.gov/press-release/20260302/how-appeal-femas-decision",
+    "score": 0.57,
+    "snippet": "Proof of insurance: You must provide a copy of your insurance settlement approval or denial letter to FEMA. If your insurance settlement is insufficient to meet your disaster-related needs, you may be eligible for federal assistance. FEMA cannot duplicate insurance benefits but m"
+   },
+   {
+    "title": "Understanding Your FEMA Determination Letter | FEMA.gov",
+    "url": "https://www.fema.gov/press-release/20260430/understanding-your-fema-determination-letter",
+    "score": 0.56,
+    "snippet": "## Eligibility and Missing Information\n\nYou may need to submit additional information or supporting documentation for FEMA to continue to process an application for financial assistance. Examples of missing documentation may include:\n\n Proof of insurance coverage.\n Settlement of "
+   }
+  ],
+  "tavily": {
+   "mode": "keyless",
+   "cached": false,
+   "elapsedMs": 3588
+  }
+ },
+ "decision": {
+  "decision": "document_cure",
+  "oneLine": "FEMA cannot verify ownership; applicant must provide proof-of-ownership documentation to cure the denial.",
+  "rationale": "The determination explicitly states the applicant needs to submit documentation because ownership was not verified (code 4). This is a classic document cure case where providing the missing ownership paperwork can resolve the ineligibility."
+ },
+ "draft": "To: FEMA Individuals and Households Program  \nRe: Ownership verification  \nDisaster number: 4827  \nApplication number: [applicant's FEMA application number]  \n\nThis letter cures the determination that assistance was denied because ownership could not be verified. I am submitting proof\u2011of\u2011ownership documentation to satisfy the requirement outlined in the decision notice.  \n\nEnclosed: [proof\u2011of\u2011ownership documentation]  \n\nI am sending this request within 60 days of the date of this letter, as required by FEMA guidance.  \n\n[Applicant\u2019s Signature]  \n[Applicant\u2019s Printed Name]  \n[Date]",
+ "elapsedSec": 8.9,
+ "fromCache": false
+}

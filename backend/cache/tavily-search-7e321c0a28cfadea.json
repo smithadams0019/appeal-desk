@@ -1,0 +1,25 @@
+{
+ "query": "FEMA home safe to occupy appeal documents IID-HA",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://www.fema.gov/about/news-multimedia/mobile-products",
+   "title": "FEMA Mobile Products | FEMA.gov",
+   "content": "alert - warning\n\nThe 43362 Text/SMS short code currently only works within the continental U.S. and common mobile phone carriers within Puerto Rico and Guam.  \n  \nFor other U.S. territories please download the FEMA App on iOS and Android (available in English and Spanish) to look up shelter and Disaster Recovery Center locations, or visit one of the links below:  \n  \nAmerican Red Cross shelter map  \n  \nDRC Locator\n\n### Find Open Disaster Recovery Centers in Your Area\n\nYou can learn about disaster recovery resources in-person at a Disaster Recovery Center.\n\nTo search for Disaster Recovery Center locations near you, text DRCand yourZIP codeto 43362 (e.g. DRC 12345).\n\nYou may use our DRC Locator at any time to search for a location near you.\n\n### Safety Tips [...] ### Safety Tips\n\nTo sign up to receive general information about how to prepare for any type of disaster, text PREPARE to 43362.\n\nTo sign up for disaster specific safety tips, text one of the keywords below to 43362:\n\nIf you would like to subscribe to more than one list, please send a separate text for each topic.\n\nSending STOP will automatically unsubscribe you from all lists. Message frequency may vary. Terms & Conditions and Privacy Policy.\n\nFEMA Logo\nDHS logo\n\n## Download the FEMA App\n\nGet real-time weather and emergency alerts, disaster news, and more with the FEMA app.\n\nPlay Store\n\n## Download the FEMA App\n\nGet real-time weather and emergency alerts, disaster news, and more with the FEMA app.\n\nApp Store [...] Find out if your location is eligible for FEMA assistance, find Disaster Recovery Center locations, and get answers to your most pressing questions.  Instantly connect with FEMA\u2019s disaster resources so you find the help that you need when you need it most.\n\nSample view of accesibility feature in mobile app\n\nSample view of accesibility feature in mobile app\n\n### INCLUSIVE DESIGN: An app for everyone.\n\nThe FEMA app is compatible with screen reader technology (Voice Over / TalkBack). The app follows federal accessibility requirements and also includes inclusive design principles such as consistent user interfaces, plain language and ALT text descriptions. To ensure the best screen reader experience, we recommend using iOS 11.0 and later and Android 5.0 and later.",
+   "score": 0.04574752,
+   "raw_content": null,
+   "id": "a9a4d6-00"
+  }
+ ],
+ "response_time": 1.84,
+ "request_id": "e26691d5-8a89-40c8-bab0-b4beae064ac3",
+ "_meta": {
+  "cached": false,
+  "mode": "keyless",
+  "endpoint": "search",
+  "elapsed_ms": 2686,
+  "retrieved": "2026-10-04T20:46:43Z"
+ }
+}
